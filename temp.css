@@ -1,0 +1,13 @@
+/* Select the element by its class or ID */
+.element-class {
+    background-color: #ffffff; /* Change this to your desired color */
+}
+
+#element-id {
+    background-color: #ffffff; /* Change this to your desired color */
+}
+
+/* Apply to the whole body */
+body {
+    background-color: #ffffff; /* Change this to your desired color */
+}
